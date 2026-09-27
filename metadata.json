@@ -1,0 +1,6 @@
+{
+  "name": "ResumeAI - AI Resume Analyzer & ATS Scanner",
+  "description": "Analyze your resume with AI. Get deep neural ATS compatibility scores, skill gap analysis, and pinpoint metric bullet rewrites to get hired 3x faster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
